@@ -392,4 +392,4 @@ Well this is the end of the documentation, it is a small project I wanted to do 
 
 I have less than a year learning to use python, I am very beginner in this, if you can give me advice or recommendation I would appreciate it. :)
 
-<a href = "#subir">Go back up</a># evprim
+<a href = "#subir">Go back up</a>
