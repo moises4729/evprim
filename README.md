@@ -1,6 +1,6 @@
 <span id = "subir"></span>
 
-# Evprim
+# Evprim prime numbers library
 
 This library has the object of identify even, odd and compound numbers as individually or in tuple/lists.
 
